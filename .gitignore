@@ -1,0 +1,18 @@
+# build
+target/
+*.class
+*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
