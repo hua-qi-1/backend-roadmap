@@ -24,8 +24,8 @@ Java 后端实习冲刺仓库：学习笔记 + 练习代码 + 项目。
 - [x] 2026-10-18 建立远程仓库 https://github.com/hua-qi-1/backend-roadmap 并完成首个提交
 - [x] 2026-10-18 晚：LeetCode 两数之和 → `java-se/leetcode/TwoSum.java`（哈希 O(n) + 暴力对照 + 笔记）
 - [x] 2026-10-18 晚：HashMap 源码过完（结构 / put / 扩容 / 树化 + 自测 5 题）
+- [x] 2026-10-19 Redis 5.0.14.1 装好（`C:\dev\redis`，已在 PATH + 开机自启，`PING` → `PONG`）
 - [ ] 2026-10-21 前：Java 集合（ArrayList 源码待补，HashMap ✅）
-- [ ] Redis 环境（WSL2 或 Memurai）
 
 ## 笔记索引
 
@@ -33,3 +33,4 @@ Java 后端实习冲刺仓库：学习笔记 + 练习代码 + 项目。
 |---|---|---|
 | 2026-10-18 | LeetCode 1. 两数之和 | [leetcode-两数之和.md](docs/notes/2026-10-18-leetcode-两数之和.md) |
 | 2026-10-18 | Java HashMap 源码 | [java-hashmap.md](docs/notes/2026-10-18-java-hashmap.md) |
+| 2026-10-19 | Redis 环境搭建 | [redis-setup.md](docs/notes/2026-10-19-redis-setup.md) |
